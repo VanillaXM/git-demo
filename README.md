@@ -1,2 +1,2 @@
-# Some-notes
-Just for some tests and fun
+# Some notes
+Just for some tests and fun.
