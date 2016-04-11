@@ -1,2 +1,2 @@
-# Some-notes-
+# Some-notes
 Just for some tests and fun
